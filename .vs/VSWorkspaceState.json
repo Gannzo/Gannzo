@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\node-react-ecommerce",
+    "\\node-react-ecommerce\\backend",
+    "\\node-react-ecommerce\\backend\\models",
+    "\\node-react-ecommerce\\frontend",
+    "\\node-react-ecommerce\\frontend\\public",
+    "\\node-react-ecommerce\\frontend\\public\\images",
+    "\\node-react-ecommerce\\frontend\\src",
+    "\\node-react-ecommerce\\template"
+  ],
+  "SelectedNode": "\\node-react-ecommerce\\frontend\\public\\index.html",
+  "PreviewInSolutionExplorer": false
+}
